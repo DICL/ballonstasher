@@ -1,5 +1,4 @@
 # BallonStasher
----
 This document describes the artifact for BallonStasher.
 The remainder of this document describes how to run BallonStasher and reproduce the results from our paper.
 If you are looking for some guidance on how to test new systems with BallonStasher, please follow as below.
@@ -35,4 +34,3 @@ cd daemon && ./build.sh
 
 ## Notes
 - If your system resources (e.g., CPU, SSD and RNIC) are different from the paper, the experimental results may also be different.
-- Please refer to our github: https://github.com/ballonstasher/ballonstasher
